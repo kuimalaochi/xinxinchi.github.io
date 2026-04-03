@@ -8,7 +8,7 @@ baseurl: "" # 保持为空
 # Author Profile (左侧边栏核心配置)
 author:
   name: "Xinxin Chi, Ph.D."
-  avatar: "/images/profile.jpg"
+  avatar: "https://xinxinchi.github.io/images/profile.jpg"
   bio: "Postdoctoral Researcher at Harvard Medical School Specializing in Immunology and Molecular Biology."
   location: "Boston, MA"
   employer: "Harvard Medical School"
