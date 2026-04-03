@@ -9,24 +9,21 @@
 # Site Settings
 title: "Xinxin Chi"
 name: "Xinxin Chi"
-description: "Postdoctoral Researcher in Medical Imaging & AI"
+description: "Postdoctoral Researcher in Immunology"
 url: "https://xinxinchi.github.io" # 记得把 yourusername 换成你的 GitHub 用户名
 baseurl: "" # 如果是 yourusername.github.io，这里保持为空
 
 # Author Profile (左侧边栏配置)
 author:
   name: "Xinxin Chi, Ph.D."
-  avatar: "images/profile.jpg" # 建议把太太的职业照命名为 profile.jpg 放到 images 文件夹下
-  bio: "Postdoctoral Researcher at Harvard Medical School Specializing in T Cell Differentiation, Cancer Immunology, and Autoimmune Disease Mechanisms."
-  location: "Boston, MA, United States" # 或者具体的城市如 Nashville, TN / Boston, MA 等
+  avatar: "images/profile.jpg"
+  bio: "Postdoctoral Researcher at Harvard Medical School Specializing in Immunology and Molecular Biology."
+  location: "Boston, MA, United States"
   employer: "Harvard Medical School"
-  uri:
   email: "chixinxinbio@gmail.com"
-  #googlescholar: "iHZyIQUAAAAJ" # 填入这个 ID，侧边栏会自动链接到她的 Scholar
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=iHZyIQUAAAAJ"
   linkedin: "xinxin-chi-7286601b2"
-  github: # 如果她有 GitHub 也可以填上用户名
-  twitter: 
-  orcid: # 建议填上 ORCID (如果有的话)
+  github: "xinxinchi"
 
 # Site Navigation (顶部菜单)
 # 这部分通常在 _data/navigation.yml 中修改，但先确保 _config.yml 基础信息正确
