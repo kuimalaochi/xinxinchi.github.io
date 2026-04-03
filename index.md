@@ -34,7 +34,7 @@ Selected Publications
 Academic Service & Honors
 ======
 * **Reviewer:** [List journals/conferences, e.g., IEEE TMI, MICCAI, etc.]
-* **Award:** [e.g., Best Paper Award or Travel Grant]
+* **Award:** [e.g., Best Paper Award or Travel Grant, or any fellowship.]
 
 Contact
 ======
