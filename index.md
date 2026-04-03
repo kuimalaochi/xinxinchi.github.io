@@ -37,4 +37,4 @@ Academic Service & Honors
 
 Contact
 ======
-You can find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/xinxin-chi-7286601b2/) or reach me via email at [Email Address].
+You can find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/xinxin-chi-7286601b2/) or reach me via email at chixinxinbio@gmail.com.
